@@ -107,7 +107,6 @@ PRODUCT_PACKAGES += \
 
 # Optional CM packages
 PRODUCT_PACKAGES += \
-    VoicePlus \
     Basic \
     libemoji
 
@@ -122,8 +121,6 @@ PRODUCT_PACKAGES += \
     Apollo \
     CMFileManager \
     LockClock \
-    CMUpdater \
-    CMAccount \
     CMHome
 
 # CM Hardware Abstraction Framework
